@@ -19,7 +19,7 @@ A Netflix-inspired front-end website created using **HTML5 and CSS3**. This proj
 
 ## 📸 Project Preview
 
-![Netflix Clone Preview](netflix-preview.png)
+![Netflix Clone Preview](netflix-preview)
 
 
 ## 🚀 Getting Started
