@@ -17,7 +17,7 @@ A Netflix-inspired front-end website created using **HTML5 and CSS3**. This proj
 
 ## 📸 Project Preview
 
-Add a screenshot of your website here to showcase your project.
+The filename in the Markdown must match the uploaded image's filename exactly.
 
 <!-- Replace the image path with your actual screenshot path -->
 <!-- Example: ![Netflix Clone Preview](screenshots/preview.png) -->
